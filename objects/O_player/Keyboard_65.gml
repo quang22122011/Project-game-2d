@@ -9,3 +9,10 @@ direction = 180;
 /// @DnDHash : 161C5C47
 /// @DnDArgument : "speed" "3"
 speed = 3;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 4A4E8F00
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "var" "global.direction_bullet"
+global.direction_bullet = 1;

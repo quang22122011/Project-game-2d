@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"O_Fire",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"O_Fire",
   "overriddenProperties":[],
